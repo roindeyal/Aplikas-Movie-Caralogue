@@ -1,1 +1,1 @@
-# Aplikas-Movie-Caralogue
+# Aplikas-Movie-Catalogue
