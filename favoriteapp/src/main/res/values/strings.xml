@@ -1,0 +1,42 @@
+<resources>
+    <string name="localization">id-ID</string>
+
+    <string name="app_name">Movie Catalogue (Local Storage)</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+    <string name="title">Judul</string>
+    <string name="rating">Peringkat</string>
+    <string name="release_date">Tanggal Liris</string>
+    <string name="release_date_film">Tanggal Liris Film</string>
+    <string name="description">Deskripsi</string>
+    <string name="age">Ages</string>
+    <string name="age_film">Dewasa Film</string>
+    <string name="language">Bahasa Asli</string>
+    <string name="language_film">Bahasa Film</string>
+    <string name="vote_average">Rata-Rata Penilaian</string>
+    <string name="vote_average_film">Rata-Rata Penilaian Film</string>
+    <string name="vote_count">Jumlah Penilaian</string>
+    <string name="vote_count_film">Jumlah Penilaian Film</string>
+    <string name="popularity">Kepopuleran</string>
+    <string name="popularity_film">Kepopuleran Film</string>
+    <string name="film_favorite">Film Kesukaan</string>
+
+    <string name="adult">Dewasa</string>
+    <string name="all_ages">Semua Umur</string>
+
+    <string name="you_are_a_favorite">Kamu Menfavoritkan</string>
+    <string name="you_are_not_a_favorite">Kamu Tidak Menfavoritkan</string>
+    <string name="failed">Gagal</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+    <string name="todo">TODO</string>
+    <string name="setting">Pengaturan</string>
+    <string name="search_hint">Cari Sesuatu ?</string>
+    <string name="release_reminder">Meliris Pengingat</string>
+    <string name="off">Mati</string>
+    <string name="on">Hidup</string>
+    <string name="daily_reminder">Pengingat Harian</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>

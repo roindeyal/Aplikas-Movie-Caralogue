@@ -1,0 +1,40 @@
+<resources>
+    <string name="localization">en-US</string>
+
+    <string name="app_name">Movie Catalogue (API)</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+    <string name="title">Title</string>
+    <string name="rating">Rating</string>
+    <string name="release_date">Release Date</string>
+    <string name="release_date_film">Tanggal Liris Film</string>
+    <string name="description">Description</string>
+    <string name="age">Ages</string>1`
+    <string name="age_film">Adult FIlm</string>
+    <string name="language">Original Language</string>
+    <string name="language_film">Original Language Film</string>
+    <string name="vote_average">Vote Average</string>
+    <string name="vote_average_film">Vote Average Film</string>
+    <string name="vote_count">Vote Count</string>
+    <string name="vote_count_film">Vote Count Film</string>
+    <string name="popularity">Popularity</string>
+    <string name="popularity_film">Popularity Film</string>
+    <string name="film_favorite">Film Favorite</string>
+
+    <string name="adult">Adult</string>
+    <string name="all_ages">All Ages</string>
+
+    <string name="you_are_a_favorite">You Are a Favorite</string>
+    <string name="you_are_not_a_favorite">You Are Not a Favorite</string>
+    <string name="failed">Failed</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="change_language_settings">Change Language Settings</string>
+    <string name="todo">TODO</string>
+    <string name="setting">Setting</string>
+    <string name="search_hint">Search Something ?</string>
+    <string name="release_reminder">Release Reminder</string>
+    <string name="off">Off</string>
+    <string name="on">On</string>
+    <string name="daily_reminder">Daily Reminder</string>
+</resources>
